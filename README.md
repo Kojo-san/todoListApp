@@ -5,3 +5,14 @@ This project allows users to add, edit, complete, and delete tasks, while keepin
 
 ## 🚀 Live Demo
 [![GitHub Pages](https://img.shields.io/badge/View%20Live%20Demo-%2300C853?style=for-the-badge&logo=github&logoColor=white)](https://kojo-san.github.io/todoListApp/)
+
+## ✨ Features
+➕ Add tasks easily using the input box.
+
+✅ Mark tasks as completed with a checkbox.
+
+✏️ Edit tasks directly through an edit button.
+
+🗑 Delete tasks with a confirmation dialog.
+
+🔄 Real-time counters for completed and uncompleted tasks.
