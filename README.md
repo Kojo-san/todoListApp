@@ -16,3 +16,9 @@ This project allows users to add, edit, complete, and delete tasks, while keepin
 🗑 Delete tasks with a confirmation dialog.
 
 🔄 Real-time counters for completed and uncompleted tasks.
+
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
