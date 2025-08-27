@@ -21,4 +21,4 @@ This project allows users to add, edit, complete, and delete tasks, while keepin
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript **
